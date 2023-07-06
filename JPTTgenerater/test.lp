@@ -327,8 +327,3 @@ ten_band("One More").
 ten_band("木苺のタルト").
 ten_band("LoveLikePop").
 
-ten_time(7).
-ten_time(22).
-ten_time(30).
-ten_time(38).
-ten_time(45).
